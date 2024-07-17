@@ -2,9 +2,9 @@
 print("hello world")
 
 a=("Ashish")
-b=("jha")
+b=("Kevat)
 print(a+b)
 
 a=("Ashish")
-b=("jha")
+b=("Kevat") 
 print(a,b)
