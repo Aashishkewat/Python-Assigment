@@ -1,0 +1,10 @@
+#lecture 1
+print("hello world")
+
+a=("Ashish")
+b=("jha")
+print(a+b)
+
+a=("Ashish")
+b=("jha")
+print(a,b)
